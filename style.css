@@ -189,15 +189,8 @@ body,h1,p,a,ul{
     }
 }
 
-
-
-
-
-
-
 .attribution { 
     font-size: 11px; text-align: center; 
-    background-color: rgba(0,0,0,0.4);
 }
 .attribution a { 
     color: hsl(229, 30%, 69%); 
